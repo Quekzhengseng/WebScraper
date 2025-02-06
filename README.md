@@ -1,5 +1,6 @@
-# Contains 4 scrapers, Change the firefox profiles within each to your own path!
-# Log into chatgpt, quora before hand 
+# Read before continuing
+- Change the firefox profiles within each to your own path in the code
+- Log into chatgpt, quora before hand in each firefox profile
 
 Quora_Answer_Webscraper
 - Input questions.csv
@@ -40,4 +41,4 @@ Quora_GPTQuestion_Webscraper
 	- Contains all the questions by CHATGPT in a csv file line by line
 	- Can be fed back into GPT answer scraper to get all the answers
 
-# Delete everything in the other folders, thanks.
+
