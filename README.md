@@ -2,7 +2,8 @@
 - Change the firefox profiles within each to your own path in the code
 - Log into chatgpt, quora before hand in each firefox profile
 
-Quora_Answer_Webscraper
+
+**Quora_Answer_Webscraper**
 - Input questions.csv
 	- Contains (Keyword, Title, Quora_Link)
 	- Keyword : Genre you are finding e.g Machine Learning
@@ -11,7 +12,8 @@ Quora_Answer_Webscraper
 - Output Question.JSONL 
 	- Contains all the answer to that specific question qithin quora
 
-Quora_Questions_Webscraper
+
+**Quora_Questions_Webscraper**
 - Input put the topics you want to scrape here.csv
 	- Contains (Topics, Genre)
 	- Topic : Topic you wanna find questions on
@@ -22,7 +24,8 @@ Quora_Questions_Webscraper
 	- Title : Question about that topic
 	- Quora Link : Link to that question in quora
 
-Quora_GPTAnswer_Webscraper
+
+**Quora_GPTAnswer_Webscraper**
 - Input topics/topic.csv
 	- Contains (Keyword, Title, Quora_Link) 
 	- Keyword : Genre you are finding e.g Machine Learning
@@ -32,7 +35,7 @@ Quora_GPTAnswer_Webscraper
 	- Contains all the answers by CHATGPT to the questions formatted in a dictionary line by line
 
 
-Quora_GPTQuestion_Webscraper
+**Quora_GPTQuestion_Webscraper**
 - Input put the topics you want to scrape here.csv
 	- Contains (Topics, Genre)
 	- Topic : Topic you wanna find questions on
