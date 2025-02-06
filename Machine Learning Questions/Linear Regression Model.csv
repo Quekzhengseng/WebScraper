@@ -1,0 +1,65 @@
+Keyword,Title,Quora_link
+Machine Learning,What is meant by linear regression?,https://www.quora.com/What-is-meant-by-linear-regression?
+Machine Learning,What are some general ways to improve multiple linear regression models?,https://www.quora.com/What-are-some-general-ways-to-improve-multiple-linear-regression-models?
+Machine Learning,What are the validation techniques of linear regression model?,https://www.quora.com/What-are-the-validation-techniques-of-linear-regression-model?
+Machine Learning,What's the difference between a multiple linear regression model and a general linear regression model?,https://www.quora.com/What's-the-difference-between-a-multiple-linear-regression-model-and-a-general-linear-regression-model?
+Machine Learning,How do you improve linear regression accuracy?,https://www.quora.com/How-do-you-improve-linear-regression-accuracy?
+Machine Learning,What are the limitations of linear regression modeling in data analysis?,https://www.quora.com/What-are-the-limitations-of-linear-regression-modeling-in-data-analysis?
+Machine Learning,What is multiple linear regression?,https://www.quora.com/What-is-multiple-linear-regression?
+Machine Learning,How is linear regression useful?,https://www.quora.com/How-is-linear-regression-useful?
+Machine Learning,Under what conditions can a linear regression model be applied?,https://www.quora.com/Under-what-conditions-can-a-linear-regression-model-be-applied?
+Machine Learning,What are the assumptions underlying multiple linear regression models?,https://www.quora.com/What-are-the-assumptions-underlying-multiple-linear-regression-models?
+Machine Learning,How do I calculate the accuracy score in linear regression?,https://www.quora.com/How-do-I-calculate-the-accuracy-score-in-linear-regression?
+Machine Learning,What are some weakness of linear regression models?,https://www.quora.com/What-are-some-weakness-of-linear-regression-models?
+Machine Learning,What is meant by a simple linear regression model ? I want to know all about this regression model?,https://www.quora.com/What-is-meant-by-a-simple-linear-regression-model-?-I-want-to-know-all-about-this-regression-model?
+Machine Learning,Can a linear regression model have an inverse function?,https://www.quora.com/Can-a-linear-regression-model-have-an-inverse-function?
+Machine Learning,What are logistic and linear regression models used for in GWAS?,https://www.quora.com/What-are-logistic-and-linear-regression-models-used-for-in-GWAS?
+Machine Learning,What are the advantages of logit and conditional logit regressions over linear regression models?,https://www.quora.com/What-are-the-advantages-of-logit-and-conditional-logit-regressions-over-linear-regression-models?
+Machine Learning,Why do we need the error terms to be normally distributed for fitting a linear regression model?,https://www.quora.com/Why-do-we-need-the-error-terms-to-be-normally-distributed-for-fitting-a-linear-regression-model?
+Machine Learning,How do you handle outliers while building linear regression model?,https://www.quora.com/How-do-you-handle-outliers-while-building-linear-regression-model?
+Machine Learning,How is linear regression implemented in R?,https://www.quora.com/How-is-linear-regression-implemented-in-R?
+Machine Learning,When are random forests (RFs) better than linear regression models?,https://www.quora.com/When-are-random-forests-(RFs)-better-than-linear-regression-models?
+Machine Learning,"Do RFs fit nonlinear data better from the get-go, without a plotting/transform dance?","https://www.quora.com/Do-RFs-fit-nonlinear-data-better-from-the-get-go,-without-a-plotting/transform-dance?"
+Machine Learning,Are there other cases where I should use RF instead of trusty old linear models?,https://www.quora.com/Are-there-other-cases-where-I-should-use-RF-instead-of-trusty-old-linear-models?
+Machine Learning,What is an advantage of a neural network over a linear regression model?,https://www.quora.com/What-is-an-advantage-of-a-neural-network-over-a-linear-regression-model?
+Machine Learning,"Under what machine learning conditions, if any, would a linear regression model outperform gradient boosting?","https://www.quora.com/Under-what-machine-learning-conditions,-if-any,-would-a-linear-regression-model-outperform-gradient-boosting?"
+Machine Learning,How do we check the accuracy of a multiple linear regression model?,https://www.quora.com/How-do-we-check-the-accuracy-of-a-multiple-linear-regression-model?
+Machine Learning,What does it mean when a linear regression model is said to violate the BLUE principle?,https://www.quora.com/What-does-it-mean-when-a-linear-regression-model-is-said-to-violate-the-BLUE-principle?
+Machine Learning,Is a model involving reciprocals a linear regression model?,https://www.quora.com/Is-a-model-involving-reciprocals-a-linear-regression-model?
+Machine Learning,Is a variable significant in a linear regression model?,https://www.quora.com/Is-a-variable-significant-in-a-linear-regression-model?
+Machine Learning,What's the impact when residuals don't follow a normal distribution in a linear regression model?,https://www.quora.com/What's-the-impact-when-residuals-don't-follow-a-normal-distribution-in-a-linear-regression-model?
+Machine Learning,Is multicollinearity important for non-linear regression model?,https://www.quora.com/Is-multicollinearity-important-for-non-linear-regression-model?
+Machine Learning,What are the challenges with categorical values in linear regression model?,https://www.quora.com/What-are-the-challenges-with-categorical-values-in-linear-regression-model?
+Machine Learning,How do you build a linear regression model in machine learning?,https://www.quora.com/How-do-you-build-a-linear-regression-model-in-machine-learning?
+Machine Learning,"Why normality is important in linear regression model , can you explain me in simple terms?","https://www.quora.com/Why-normality-is-important-in-linear-regression-model-,-can-you-explain-me-in-simple-terms?"
+Machine Learning,What are regression and general linear regression models?,https://www.quora.com/What-are-regression-and-general-linear-regression-models?
+Machine Learning,What are the best feature normalization techniques for linear regression models?,https://www.quora.com/What-are-the-best-feature-normalization-techniques-for-linear-regression-models?
+Machine Learning,Can you ever overfit a simple linear regression model?,https://www.quora.com/Can-you-ever-overfit-a-simple-linear-regression-model?
+Machine Learning,How do you implement a typical linear regression model using a Bayesian approach?,https://www.quora.com/How-do-you-implement-a-typical-linear-regression-model-using-a-Bayesian-approach?
+Machine Learning,Is a significant correlation coefficient a necessary condition for a significant linear regression model?,https://www.quora.com/Is-a-significant-correlation-coefficient-a-necessary-condition-for-a-significant-linear-regression-model?
+Machine Learning,What's the best business outcome you've seen from a generalized linear regression model?,https://www.quora.com/What's-the-best-business-outcome-you've-seen-from-a-generalized-linear-regression-model?
+Machine Learning,Which generalized linear regression model should one run for count data with a heavy tail?,https://www.quora.com/Which-generalized-linear-regression-model-should-one-run-for-count-data-with-a-heavy-tail?
+Machine Learning,How do we test endogeneity in linear regression model?,https://www.quora.com/How-do-we-test-endogeneity-in-linear-regression-model?
+Machine Learning,When would you ever want to remove the intercept term from a linear regression model?,https://www.quora.com/When-would-you-ever-want-to-remove-the-intercept-term-from-a-linear-regression-model?
+Machine Learning,What is a classical normal linear regression model?,https://www.quora.com/What-is-a-classical-normal-linear-regression-model?
+Machine Learning,How do you create a linear regression model?,https://www.quora.com/How-do-you-create-a-linear-regression-model?
+Machine Learning,What are the steps for an end-to-end process of building a multiple linear regression model?,https://www.quora.com/What-are-the-steps-for-an-end-to-end-process-of-building-a-multiple-linear-regression-model?
+Machine Learning,What is a classical linear regression model?,https://www.quora.com/What-is-a-classical-linear-regression-model?
+Machine Learning,Why is the linear regression model too simple for PhD data analysis?,https://www.quora.com/Why-is-the-linear-regression-model-too-simple-for-PhD-data-analysis?
+Machine Learning,What is heteroscedasticity as used to assess a linear regression model?,https://www.quora.com/What-is-heteroscedasticity-as-used-to-assess-a-linear-regression-model?
+Machine Learning,What are the various scenarios where we get a negative R squared in a ( linear ) regression model?,https://www.quora.com/What-are-the-various-scenarios-where-we-get-a-negative-R-squared-in-a-(-linear-)-regression-model?
+Machine Learning,Does skewness have any impact on linear regression model?,https://www.quora.com/Does-skewness-have-any-impact-on-linear-regression-model?
+Machine Learning,"Sometimes a linear regression model fits poorly due to outliers and correlated features, etc?","https://www.quora.com/Sometimes-a-linear-regression-model-fits-poorly-due-to-outliers-and-correlated-features,-etc?"
+Machine Learning,How often does a linear regression model fail when all predictors are categorical?,https://www.quora.com/How-often-does-a-linear-regression-model-fail-when-all-predictors-are-categorical?
+Machine Learning,Assume that there is enough data to estimate the parameters?,https://www.quora.com/Assume-that-there-is-enough-data-to-estimate-the-parameters?
+Machine Learning,Is it possible to create linear regression model using character variables?,https://www.quora.com/Is-it-possible-to-create-linear-regression-model-using-character-variables?
+Machine Learning,Is a factor model the same as a linear regression model?,https://www.quora.com/Is-a-factor-model-the-same-as-a-linear-regression-model?
+Machine Learning,What are the most advanced aspects of a linear regression model?,https://www.quora.com/What-are-the-most-advanced-aspects-of-a-linear-regression-model?
+Machine Learning,How can you train and interpret a linear regression model in SciKit Learn?,https://www.quora.com/How-can-you-train-and-interpret-a-linear-regression-model-in-SciKit-Learn?
+Machine Learning,"In the linear regression model , is there any way to update the coefficient when a new point comes in?","https://www.quora.com/In-the-linear-regression-model-,-is-there-any-way-to-update-the-coefficient-when-a-new-point-comes-in?"
+Machine Learning,How might you deal with a multiple linear regression model where the response variable is mostly 0s?,https://www.quora.com/How-might-you-deal-with-a-multiple-linear-regression-model-where-the-response-variable-is-mostly-0s?
+Machine Learning,How would you get a simple linear regression model from a CSV dataset with your favorite data science library?,https://www.quora.com/How-would-you-get-a-simple-linear-regression-model-from-a-CSV-dataset-with-your-favorite-data-science-library?
+Machine Learning,What does having “constant variance” in a linear regression model mean?,https://www.quora.com/What-does-having-“constant-variance”-in-a-linear-regression-model-mean?
+Machine Learning,What is a linear regression model used for?,https://www.quora.com/What-is-a-linear-regression-model-used-for?
+Machine Learning,What is the difference between a multiple regression model and a linear regression model?,https://www.quora.com/What-is-the-difference-between-a-multiple-regression-model-and-a-linear-regression-model?
+Machine Learning,How do linear regression models work?,https://www.quora.com/How-do-linear-regression-models-work?
